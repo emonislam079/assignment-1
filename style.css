@@ -152,4 +152,7 @@ footer h1{
 }
 footer h2{
     padding-bottom: 50px;
+    text-align: center;
+    font-size: 20px;
+    color: wheat;
 }
