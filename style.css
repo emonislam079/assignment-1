@@ -55,15 +55,15 @@ section.page1{
     
 }
 .page1-left{
-    width: 60%;
+    width: 70%;
     margin: 0%;
     padding-left:5%;
 
 }
 .page1-right{
     width: 30%;
-    margin-right:5%;
-    padding-right:5%;
+    margin-right: 0%;
+    padding-right:0%;
 }
 #page1{
     color: turquoise;
@@ -99,7 +99,17 @@ section.page2{
     text-align: justify;
     margin-right: 10%;
 }
-section.page3{
+#page3head{
+    text-align: center;
+    font-size: 50px;
+}
+#page3para{
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: 150px;
+    padding-top: 50px;
+}
+.page3{
     display: flex;
     margin: 0%;
     width: 100%;
